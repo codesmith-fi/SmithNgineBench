@@ -10,6 +10,9 @@ using Codesmith.SmithNgine.Smith3D.Renderer;
 using Codesmith.SmithNgine.Smith3D.Renderer.RenderEffect;
 using Codesmith.SmithNgine.View;
 
+/// <summary>
+/// Test 
+/// </summary>
 public class NgineBenchGame : Game
 {
     private GraphicsDeviceManager graphics;
